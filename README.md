@@ -23,3 +23,5 @@ performance, profitability and regional trends.
 - Google Sheets
 - Data Cleaning & Formatting
 - 
+- ## 📸 Dashboard Preview
+![Superstore Dashboard](dashboard.png)
